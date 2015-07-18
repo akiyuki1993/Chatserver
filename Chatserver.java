@@ -1,3 +1,2 @@
 # Chatserver
 
-ばーーーーか
